@@ -1,0 +1,15 @@
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch18ex5\ch18ex5\bin\Debug\ch18ex5.exe.config
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch18ex5\ch18ex5\bin\Debug\ch18ex5.exe
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch18ex5\ch18ex5\bin\Debug\ch18ex5.pdb
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch18ex5\ch18ex5\obj\Debug\ch18ex5.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch18ex5\ch18ex5\obj\Debug\ch18ex5.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch18ex5\ch18ex5\obj\Debug\ch18ex5.exe
+C:\Users\miran\Desktop\CSCI 234\Week 14\Week 14 Codes\ch18ex5\ch18ex5\obj\Debug\ch18ex5.pdb
+C:\Users\miran\Desktop\ch18ex5\ch18ex5\bin\Debug\ch18ex5.exe.config
+C:\Users\miran\Desktop\ch18ex5\ch18ex5\bin\Debug\ch18ex5.exe
+C:\Users\miran\Desktop\ch18ex5\ch18ex5\bin\Debug\ch18ex5.pdb
+C:\Users\miran\Desktop\ch18ex5\ch18ex5\obj\Debug\ch18ex5.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\ch18ex5\ch18ex5\obj\Debug\ch18ex5.csproj.SuggestedBindingRedirects.cache
+C:\Users\miran\Desktop\ch18ex5\ch18ex5\obj\Debug\ch18ex5.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\ch18ex5\ch18ex5\obj\Debug\ch18ex5.exe
+C:\Users\miran\Desktop\ch18ex5\ch18ex5\obj\Debug\ch18ex5.pdb
